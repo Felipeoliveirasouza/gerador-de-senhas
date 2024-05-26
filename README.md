@@ -1,7 +1,7 @@
 <h1 align="center">GERADOR DE SENHAS</h1>
 
 <div align="center">
-<img src="https://github.com/Felipeoliveirasouza/ping-pong/assets/153692420/c59cf26c-7f1a-4d61-a066-18e9d6552579" width="500px" />
+<img src="https://github.com/Felipeoliveirasouza/gerador-de-senhas/assets/153692420/073ac7c4-3391-41d7-8abe-7530074355ff" width="500px" />
 </div>
 
 <p>Bem-vindo ao repositório do meu projeto Gerador de Senhas! Este é um aplicativo web que gera senhas seguras com base nas preferências do usuário.</p>
