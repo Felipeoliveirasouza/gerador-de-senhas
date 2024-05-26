@@ -21,3 +21,7 @@
 - **Geração de Senhas**: O aplicativo pode gerar senhas seguras de qualquer comprimento.
 - **Personalização**: Os usuários podem personalizar a senha para incluir letras maiúsculas e minúsculas, números e símbolos.
 - **Cópia para a Área de Transferência**: Os usuários podem copiar a senha gerada para a área de transferência com um único clique.</p>
+
+<h2>Onde posso acessar?</h2>
+
+<p>Você pode acessar atraves do link: </p>
